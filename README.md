@@ -3,7 +3,7 @@
 </p>
 
 # Happy
-![stacks](https://img.shields.io/badge/React.js--green) ![stacks](https://img.shields.io/badge/React%20Native--green) ![stacks](https://img.shields.io/badge/Expo--green)
+![stacks](https://img.shields.io/badge/React.js--green) ![stacks](https://img.shields.io/badge/React%20Native--green) ![stacks](https://img.shields.io/badge/Expo--green) ![stacks](https://img.shields.io/badge/Typescript--blue)
 
 <p align="center">
   <img src="banners/main-banner-v2.png"/>
