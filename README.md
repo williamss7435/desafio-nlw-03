@@ -44,14 +44,14 @@ npm run typeorm migration:run
 npm run dev
 ```
 
-###Fron-end (Web)
+### Fron-end (Web)
 ```
 cd happy-web
 npm install
 npm run start
 ```
 
-###Fron-end (Mobile) `Requer o Expo instalado`
+### Fron-end (Mobile) `Requer o Expo instalado`
 ```
 cd happy-mobile
 npm install
